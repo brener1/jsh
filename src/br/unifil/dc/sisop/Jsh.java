@@ -32,7 +32,7 @@ public final class Jsh {
     */
     public static void exibirPrompt() {
 
-            System.out.print(System.getProperty("user.name")+"#"+"1337"+" : "+System.getProperty("user.dir")+" ");
+            System.out.print(System.getProperty("user.name")+"#"+" : "+System.getProperty("user.dir")+" ");
 
 
     }
