@@ -31,10 +31,7 @@ public final class Jsh {
     * terminal está pronto para receber o próximo comando como entrada.
     */
     public static void exibirPrompt() {
-
             System.out.print(System.getProperty("user.name")+"#"+" : "+System.getProperty("user.dir")+" ");
-
-
     }
 
     /**
